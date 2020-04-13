@@ -1,3 +1,5 @@
 - **player.gif:** environment 
 - **episodes.JPG:** episodes required to solve the environment
 - **scores.JPG:** Avg reward vs. episodes 
+- **maddpg.png:** Multi-agent DDPG algorithm
+- **Flow.png:** Actor-critic methods block diagram 
